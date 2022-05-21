@@ -1,6 +1,5 @@
 # WingetAppInstaller
 Wingetコマンドを使ってアプリインストーラーを作成しました
 ※まだベータ版なので実行コマンド数が少ないです
-※"EXIT"でWingetAppInstallerを閉じてください(×ボタンを押さないでください)
-　メモ帳や仮cmd.exeを自動で閉じれなくなります(手動でメモ帳を閉じる必要があります)
+ダウンロード:https://github.com/System-Pt04/WingetAppInstaller/releases
 
