@@ -1,4 +1,4 @@
-# PtSoftware-Installer(更新対象外)
+# PtSoftware-Installer
 Windows Package Managerを使ってアプリインストーラーを作成しました
 # リリースのダウンロード
 以下からダウンロードできます:
